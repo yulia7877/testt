@@ -1,0 +1,11 @@
+Model Information:
+* title:	Moon Meet Up
+* source:	https://sketchfab.com/3d-models/moon-meet-up-48c9dffa8ab140209ab3a1354e358547
+* author:	Taylor Crook (https://sketchfab.com/taylorc56)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Moon Meet Up" (https://sketchfab.com/3d-models/moon-meet-up-48c9dffa8ab140209ab3a1354e358547) by Taylor Crook (https://sketchfab.com/taylorc56) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
